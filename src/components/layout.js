@@ -39,11 +39,11 @@ const Layout = ({ children }) => (
             {` `}
             <a target="_blank" href="https://www.gatsbyjs.org">Gatsby</a>
             {` `}|{` `}
-            Hosted on
+            Deploys from
             {` `}
-            <a target="_blank" href="https://www.github.com">GitHub</a>
+            <a target="_blank" href="https://github.com/soroushchehresa/gatsbyjs.ir">GitHub</a>
             {` `}|{` `}
-            By
+            Owned by
             {` `}
             <a target="_blank" href="https://github.com/soroushchehresa">Soroush Chehresa</a>
           </footer>
